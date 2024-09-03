@@ -23,8 +23,8 @@ module.exports = {
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@x4_bots",
-    packname: process.env.PackName || "x4 bots",
+    author: process.env.Author || "@𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
+    packname: process.env.PackName || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
     socialLink: process.env.Web || "https://github.com/Gk894307",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/KWvh8QxKqQZAi3irBs3iUY",
     warns: Number(process.env.Warn_Limits) || 3,
@@ -37,8 +37,8 @@ module.exports = {
      */
     image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
     image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
-    imageUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image url, to replace to your url upload your image to https://imgbb.com
-    imageMentionUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image for mention reply audio media
+    imageUrl: "https://i.ibb.co/XCCQcvV/IMG-20240326-131209-489.jpg", // image url, to replace to your url upload your image to https://imgbb.com
+    imageMentionUrl: "https://i.ibb.co/XCCQcvV/IMG-20240326-131209-489.jpg", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
     ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
